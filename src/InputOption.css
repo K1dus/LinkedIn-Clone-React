@@ -1,0 +1,23 @@
+.inputOption {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    color: gray;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.inputOption:hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+/* // Cloned by: Kidus Efrem
+// Email: kidus@protonmail.com
+// Phone: +251917001417
+// GitHub: https://www.github.com/k1dus
+// LinkedIn: https://www.linkedin.com/in/kidusefrem/ */
+
+.inputOption > h4 {
+    margin-left: 5px;
+}
